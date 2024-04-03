@@ -29,14 +29,9 @@ This process is best for sharing your musical projects to other people.
 ---
 
 # Images
-![SpendLess menu interface](https://user-images.githubusercontent.com/62458713/215487143-3369c6e2-44b9-41fa-854a-a7cddc998b61.png)
 
-![SpendLess settings interface](https://user-images.githubusercontent.com/62458713/215487220-8bcde12b-627c-434c-b41d-bab16dc689c9.png)
-
-![SpendLess export popup](https://user-images.githubusercontent.com/62458713/215487319-2e7df74c-f1a5-496e-9a8b-6bcdb3be2421.png)
-
-![SpendLess edit popup](https://user-images.githubusercontent.com/62458713/215487395-4dc35740-034f-4dfd-a373-eee58ad86c05.png)
-
-![SpendLess edit icons](https://user-images.githubusercontent.com/62458713/215487471-934ef799-8c70-440a-97ab-0861edf3b1b6.png)
-
-![SpendLess new project section](https://user-images.githubusercontent.com/62458713/215487539-c6013ad6-f119-441f-85b7-3d0403b4e497.png)
+![fdghdfghdfgh](https://github.com/SpendLessDaw/spendless-releases/assets/62458713/0a4bd86e-2275-43aa-ac9e-fdb46b3b96c8)
+![dsdshjkhj](https://github.com/SpendLessDaw/spendless-releases/assets/62458713/ef073ad8-e418-4805-ba04-eb89b3d603df)
+![gfhjfghjsdfgqsd](https://github.com/SpendLessDaw/spendless-releases/assets/62458713/732401e0-cd83-4708-9068-77bc4ea6bad8)
+![hjkghjfedtry](https://github.com/SpendLessDaw/spendless-releases/assets/62458713/baa6f975-b44f-40e7-b135-16934b06e928)
+![jhkgsddfsdsdf](https://github.com/SpendLessDaw/spendless-releases/assets/62458713/29afe14e-7edb-4829-a6d3-7ad31db4dbb8)
