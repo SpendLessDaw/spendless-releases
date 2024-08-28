@@ -11,8 +11,10 @@ It also has many other features such as an **archive system, export, soft backup
 All these features help you organize yourself better without needing a complex manual organization and help you distinguish your projects from each other much more easily.
 
 Finally, **this application is free and will remain so**. It is not excluded that in the future SpendLess could have a premium plan if expensive features are implemented.
+
 However, the future potential premium plans will only concern these expensive features and nothing else.
 This means that **no feature added for free will become paid**, if a feature is released for free, it will remain so.
+
 The music world is already quite expensive, and we do not wish to contribute to that.
 
 # About SpendLess
