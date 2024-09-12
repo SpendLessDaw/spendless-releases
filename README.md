@@ -1,6 +1,6 @@
 # Welcome to the SpendLess Daw !
 
-**SpendLess Daw is a project manager designed to manage your DAW project files**.
+**SpendLess Daw is a project manager designed to manage your DAW project files (currently avaible for FL Studio only)**.
 It interacts with project files, reads and writes information inside them to retrieve, for example, the BPM, the title, the working time, the creation date, the VSTs used, and detects the samples used to move them to a folder dedicated to your project.
 
 It has an **icon/color pair system** helping you visually recognize your projects effortlessly.
